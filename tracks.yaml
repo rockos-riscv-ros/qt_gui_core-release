@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:rockos-riscv-ros/qt_gui_core-release
 tracks:
   crystal:
     actions:
