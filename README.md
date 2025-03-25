@@ -1,3 +1,32 @@
+## qt_gui_core (jazzy) - 2.7.5-3
+
+The packages in the `qt_gui_core` repository were released into the `jazzy` distro by running `/home/z572/gits/rockos-ros/venv/bin/bloom-release -r jazzy qt_gui_core --override-release-repository-push-url git@github.com:rockos-riscv-ros/qt_gui_core-release` on `Tue, 25 Mar 2025 11:24:23 -0000`
+
+These packages were released:
+- `qt_dotgraph`
+- `qt_gui`
+- `qt_gui_app`
+- `qt_gui_core`
+- `qt_gui_cpp`
+- `qt_gui_py_common`
+
+Version of package(s) in repository `qt_gui_core`:
+
+- upstream repository: https://github.com/ros-visualization/qt_gui_core.git
+- release repository: https://github.com/rockos-riscv-ros/qt_gui_core-release.git
+- rosdistro version: `2.7.5-3`
+- old version: `2.7.5-2`
+- new version: `2.7.5-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## qt_gui_core (jazzy) - 2.7.5-2
 
 The packages in the `qt_gui_core` repository were released into the `jazzy` distro by running `/home/z572/gits/rockos-ros/venv/bin/bloom-release -r jazzy qt_gui_core --override-release-repository-push-url git@github.com:rockos-riscv-ros/qt_gui_core-release` on `Tue, 25 Mar 2025 05:59:16 -0000`
